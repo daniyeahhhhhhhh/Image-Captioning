@@ -1,3 +1,4 @@
+Image Captioning Using CNN and LSTM
 Abstract—Image captioning is the task of generating text captions from images. It is a powerful bridging link between computer vision and natural language processing. Here, we propose a deep learning method using Convolutional Neural Networks (CNNs) for feature extraction and Long Short-Term Memory (LSTM) networks for sequence generation. We train and test the model with the Flickr8k dataset. The model introduced here obtains noteworthy performance in BLEU scores, justifying its effectiveness in generating coherent and valid image captions.
 
 Keywords—Image Captioning, CNN, LSTM, Deep Learning, Flickr8k, BLEU Score, Neural Networks, Feature Extraction, Sequence Modelling.
